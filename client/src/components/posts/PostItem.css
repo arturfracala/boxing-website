@@ -1,0 +1,34 @@
+.postItemContainer {
+  width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  border: 1px solid #b7b8bd;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  color: black;
+}
+
+.postAuthor {
+  padding: 3px;
+  color: #808080;
+}
+
+.postItemDeleteButton {
+  background-color: #f44336;
+  border: none;
+  color: #1d1e22;
+  padding: 5px 15px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 5px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.postItemDeleteButton:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,57 @@
+.landingParagraph {
+  color: #ffffff;
+  font-size: 85px;
+  text-align: center;
+  margin-top: 90px;
+  background: rgb(48, 51, 107);
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(48, 51, 107, 1) 0%,
+    rgba(106, 137, 254, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.landingSmallerParagraph {
+  text-align: center;
+  font-size: 45px;
+  background: rgb(48, 51, 107);
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(48, 51, 107, 1) 0%,
+    rgba(106, 137, 254, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.landingLink {
+  text-align: center;
+  margin: 10px;
+  width: 45%;
+  padding: 22px 10px;
+  background: #30336b;
+  color: #ffffff;
+  margin-right: 0px;
+  margin-top: 5px;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.landingLink:hover {
+  background: rgb(48, 51, 107);
+  background: linear-gradient(
+    90deg,
+    rgba(48, 51, 107, 1) 0%,
+    rgba(106, 123, 254, 1) 100%
+  );
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.linksContainer {
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+}

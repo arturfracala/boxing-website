@@ -1,0 +1,15 @@
+.rankingItemContainer {
+  width: 200px;
+  height: 26px;
+  border: 1px solid#30336b;
+  color: #30336b;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.rankingItemContainer:hover {
+  cursor: pointer;
+  background-color: #adadad;
+}

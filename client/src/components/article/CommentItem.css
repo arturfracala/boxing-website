@@ -1,0 +1,10 @@
+.commentItemContainer {
+  margin: 0 auto;
+  border: 1px solid#b7b8bd;
+  background-color: #ffffff;
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  padding: 7px;
+}

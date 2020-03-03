@@ -1,0 +1,44 @@
+.articleFormContainer {
+  width: 800px;
+  height: 250px;
+  margin: 0 auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+}
+
+.textInputForm {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  padding: 5px;
+  background-color: #ffffff;
+}
+
+.textAreaForm {
+  width: 90%;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  padding: 5px;
+  background-color: #ffffff;
+}
+
+.submitForm {
+  margin: 0 auto;
+  padding: 5px 15px;
+  color: #30336b;
+  background-color: #ffffff;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid #b7b8bd;
+  border-radius: 3px;
+}
+
+.submitForm:hover {
+  background-color: #30336b;
+  color: #ffffff;
+  cursor: pointer;
+}

@@ -1,0 +1,58 @@
+.loginContainer {
+  width: 400px;
+  height: 240px;
+  background: #30336b;
+  color: #ffffff;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+
+.loginParagraph {
+  font-size: 35px;
+  margin-left: 150px;
+  margin-right: 40px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.loginPasswordInput {
+  width: 80%;
+  padding: 12px 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.loginEmailInput {
+  width: 80%;
+  padding: 12px 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.loginSubmitInput {
+  width: 80%;
+  padding: 12px 20px;
+  margin-left: 40px;
+  color: #ffffff;
+  background: #30336b;
+  margin-right: 40px;
+  margin-top: 20px;
+  display: inline-block;
+  border: 3px solid #000001;
+  box-sizing: border-box;
+}
+
+.loginSubmitInput:hover {
+  background: #ffffff;
+  color: #30336b;
+  cursor: pointer;
+}

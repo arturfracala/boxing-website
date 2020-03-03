@@ -1,0 +1,52 @@
+.addEventContainer {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.addEventMainHeader {
+  text-align: center;
+}
+
+.addEventInputContainer {
+  float: left;
+  padding: 10px;
+}
+
+.addEventSubmitInputContainer {
+  clear: both;
+  text-align: center;
+}
+
+.addEventLink {
+  margin: 3px;
+  display: block;
+  width: 70px;
+  padding: 5px 15px;
+  color: #30336b;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid#30336b;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.addEventLink:hover {
+  background-color: #30336b;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.addEventSubmitInput {
+  width: 90px;
+  padding: 5px 15px;
+  background-color: #30336b;
+  color: #f1f2f6;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 3px;
+}
+
+.addEventSubmitInput:hover {
+  color: #e4e5eb;
+  cursor: pointer;
+}

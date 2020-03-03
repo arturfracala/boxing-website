@@ -1,0 +1,42 @@
+.articleContainer {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+}
+
+.titleArticle {
+  margin-top: 45px;
+  text-align: center;
+  font-size: 30px;
+  padding: 5px;
+}
+
+.backButton {
+  text-align: center;
+  height: 24px;
+  width: 60px;
+  padding: 3px;
+  color: #feda6a;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  background-color: #1d1e22;
+  border: 1px solid#1d1e22;
+  float: left;
+}
+
+.backButton:hover {
+  background-color: #feda6a;
+  color: #1d1e22;
+  cursor: pointer;
+}
+
+.commentsHeader {
+  text-align: center;
+  font-size: 23px;
+  padding: 5px;
+  margin-top: 10px;
+}

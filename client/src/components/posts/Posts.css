@@ -1,0 +1,21 @@
+.postPageSwitch {
+  padding: 5px 15px;
+  color: #30336b;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid #30336b;
+  border-radius: 3px;
+  background-color: #ffffff;
+}
+
+.postPageSwitch:hover {
+  background-color: #30336b;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.pageNumbers {
+  margin: 0 auto;
+  margin-top: 5px;
+  max-width: 150px;
+}

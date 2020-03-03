@@ -1,0 +1,14 @@
+.findBoxerContainer {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+
+.findBoxerLink {
+  color: black;
+  text-decoration: none;
+}
+
+.findBoxerLink:hover {
+  background-color: #c0c0c0;
+}

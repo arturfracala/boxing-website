@@ -1,0 +1,67 @@
+.addBoutContainer {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 55px;
+}
+
+.addBoutForm {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.addBoutDetailsContainer {
+  width: 450px;
+  display: block;
+}
+
+.addBoutBoxersContainer {
+  width: 500px;
+  float: right;
+}
+
+.addBoutInputBox {
+  padding: 10px;
+  width: 500px;
+}
+
+.judgeContainer {
+  border: 1px solid #b7b8bd;
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 400px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.addBoutJudgeInput {
+  padding: 10px;
+}
+
+.addBoutInputSubmitContainer {
+  display: block;
+  margin-left: 250px;
+  padding: 15px;
+}
+
+.addBoutInputSubmit {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 0 auto;
+  margin-top: 20px;
+  color: #ffffff;
+  background: #30336b;
+  display: inline-block;
+  border: 1px solid #000001;
+  box-sizing: border-box;
+}
+
+.addBoutInputSubmit:hover {
+  background: #ffffff;
+  color: #30336b;
+  cursor: pointer;
+}
+
+.addBoutRenderItem:hover {
+  cursor: pointer;
+  background-color: #ffffff;
+}

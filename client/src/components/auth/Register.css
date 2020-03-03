@@ -1,0 +1,51 @@
+.registerContainer {
+  width: 400px;
+  height: 420px;
+  background: #30336b;
+  color: #ffffff;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+.registerParagraph {
+  font-size: 35px;
+  margin-left: 150px;
+  margin-right: 40px;
+  margin-top: 35px;
+  margin-bottom: 0px;
+}
+
+.registerInput {
+  width: 80%;
+  padding: 12px 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.registerInputSubmit {
+  width: 80%;
+  padding: 12px 20px;
+  margin-left: 40px;
+  color: #30336b;
+  background: #ffffff;
+  margin-right: 40px;
+  margin-top: 20px;
+  display: inline-block;
+  border: 3px solid #000001;
+  box-sizing: border-box;
+}
+
+.registerInputSubmit:hover {
+  background: #30336b;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.linkParagraph {
+  margin-left: 90px;
+}

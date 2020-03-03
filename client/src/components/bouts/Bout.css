@@ -1,0 +1,27 @@
+.boutContainer {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 55px;
+}
+
+.judgesContainer {
+  padding: 10px;
+  margin: 0 auto;
+  border: 1px solid #b7b8bd;
+  background-color: #ffffff;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.judgeTitleBout {
+  font-size: 25px;
+}
+
+.punchesContainer {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 47%;
+  padding: 10px;
+}

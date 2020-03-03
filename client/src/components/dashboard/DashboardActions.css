@@ -1,0 +1,18 @@
+.actionsLink {
+  text-align: center;
+  width: 100px;
+  color: #ffffff;
+  background-color: #30336b;
+  margin-left: 0px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  padding: 5px 5px;
+}
+
+.actionsLink:hover {
+  color: #30336b;
+  background-color: #ffffff;
+  border: 1px solid#30336b;
+  cursor: pointer;
+}

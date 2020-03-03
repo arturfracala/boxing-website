@@ -1,0 +1,28 @@
+.eventContainer {
+  margin-top: 45px;
+}
+
+.eventLink {
+  margin-top: 45px;
+  display: block;
+  width: 70px;
+  padding: 5px 15px;
+  color: #f1f2f6;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #30336b;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.eventLink:hover {
+  color: #e4e5eb;
+  cursor: pointer;
+}
+
+.eventContainer {
+  width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+}

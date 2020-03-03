@@ -1,0 +1,33 @@
+.postFormContainer {
+  width: 800px;
+  height: 250px;
+  margin: 0 auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+}
+
+.postFromTextArea {
+  width: 90%;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  padding: 5px;
+  background-color: #e0e0e0;
+}
+
+.postFromButton {
+  margin: 0 auto;
+  padding: 5px 15px;
+  color: #ffffff;
+  background-color: #30336b;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 3px;
+}
+
+.postFromButton:hover {
+  color: #adadad;
+  cursor: pointer;
+}

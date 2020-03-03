@@ -1,0 +1,27 @@
+.dashboardLink {
+  width: 93px;
+  padding: 3px;
+  color: #30336b;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid#30336b;
+}
+
+.dashboardLink:hover {
+  background-color: #30336b;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.applicationsDashboardContainer {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 30%;
+}
+
+.appDashboardMainContainer {
+  width: 650px;
+  border: 1px solid#30336b;
+  border-radius: 5px;
+  margin: 5px;
+}

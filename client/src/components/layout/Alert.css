@@ -1,0 +1,21 @@
+.alert-danger {
+  margin: 0 auto;
+  padding: 5px;
+  width: 350px;
+  height: 20px;
+  text-align: center;
+  vertical-align: middle;
+  color: #ff4136;
+  margin-top: 45px;
+}
+
+.alert-success {
+  margin: 0 auto;
+  padding: 5px;
+  width: 350px;
+  height: 20px;
+  text-align: center;
+  vertical-align: middle;
+  color: #4bb543;
+  margin-top: 45px;
+}

@@ -1,0 +1,17 @@
+.eventItemContainer {
+  padding: 10px;
+  width: 400px;
+  margin: 0 auto;
+  color: #f1f2f6;
+  background-color: #30336b;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.eventItemContainer:hover {
+  color: #e4e5eb;
+  cursor: pointer;
+}
